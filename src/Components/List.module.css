@@ -1,3 +1,4 @@
+
 .strt {
   margin-left: 5%;
   margin-right: 5%;
@@ -28,4 +29,17 @@
 .hr{
   color: black;
   height: 2%;
+}
+@media (max-width: 768px) {
+  .parent {
+    width: 100%;
+    margin: 0;
+  }
+  .child {
+    display: block;
+    margin-bottom: 1rem;
+  }
+  .vertical-line {
+    display: none;
+  }
 }

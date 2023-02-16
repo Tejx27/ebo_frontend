@@ -8,7 +8,7 @@ const Footer = () => {
       <div className={classes.parent}>
         <div className={classes.child}>
           <div className={classes.image}>
-            <img src={Image} alt="Bucket Image" />
+            <img className={classes.images} src={Image} alt="Bucket Image" />
           </div>
           <div className={classes.text}>
             <h1 class={classes.heading}>Looking to celebrate?</h1>

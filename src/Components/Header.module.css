@@ -1,3 +1,12 @@
+.parent {
+    margin: -2rem;
+    padding: 2rem 2rem;
+  }
+  .child {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
 .header{
     margin-top: 3;
     margin-right: 3;
@@ -15,4 +24,12 @@
 }
 .name{
     color: #0048CD;
+}
+
+.para{
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.icon{
+    margin-left: 5px;
 }
