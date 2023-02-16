@@ -1,0 +1,31 @@
+.strt {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.parent {
+  margin: -2rem;
+  padding: 2rem 2rem;
+}
+.child {
+  display: inline-block;
+  vertical-align: middle;
+}
+.vertical-line {
+  display: inline-block;
+  height: 70px;
+  border-right: 1px solid black;
+  vertical-align: top;
+  margin-top: 25px;
+  margin-left: 1%;
+  margin-right: 70px;
+}
+
+.icon {
+  margin-left: 50px;
+}
+
+.hr{
+  color: black;
+  height: 2%;
+}
